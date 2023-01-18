@@ -135,3 +135,11 @@ button {
   width: 100px;
   background-color: rgb(99, 99, 209);
 }
+
+[id="line"] {
+  border-bottom: 2px solid black;
+}
+
+h3 {
+  text-align: right;
+}

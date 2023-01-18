@@ -1,0 +1,117 @@
+header {
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 30px;
+  background-color: navy;
+  padding-top: 30px;
+}
+
+header h1 {
+  font-size: medium;
+}
+
+header p {
+  font-size: small;
+}
+
+header > div > p {
+  font-weight: bold;
+}
+body {
+  background-color: rgb(245, 227, 191);
+}
+
+section > div {
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-around;
+  background-color: hwb(34 40% 19%);
+}
+
+section > div > p {
+  font-size: 18px;
+  font-weight: inherit;
+}
+
+section > div > a {
+  display: flex;
+  justify-content: space-around;
+  zoom: 2;
+  background-color: purple;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  color: hwb(34 40% 19%);
+  font-weight: bolder;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+label > div > p {
+  display: flex;
+  justify-content: left;
+  text-decoration: line-through;
+}
+
+.box1 {
+  display: flex;
+  text-align: center;
+}
+
+.box2 {
+  display: flex;
+  text-align: center;
+}
+
+.box3 {
+  display: flex;
+  text-align: center;
+}
+
+.price {
+  display: flex;
+  padding-left: 240px;
+  text-decoration: none;
+}
+.price1 {
+  display: flex;
+  padding-left: 260px;
+  text-decoration: none;
+}
+
+.price2 {
+  display: flex;
+  padding-left: 225px;
+  text-decoration: none;
+}
+
+[id="sugar"] {
+  text-decoration: none;
+}
+
+footer {
+  clear: both;
+  position: relative;
+  height: 100px;
+  margin-top: 320px;
+  background-color: aqua;
+}
+
+footer p {
+  text-align: center;
+  padding-top: 35px;
+}

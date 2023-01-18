@@ -1,0 +1,19 @@
+{
+  "name": "ch3w1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryanleary9/202301-W1CH3-Ryan-Leary.git"
+  },
+  "author": "Ryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryanleary9/202301-W1CH3-Ryan-Leary/issues"
+  },
+  "homepage": "https://github.com/Ryanleary9/202301-W1CH3-Ryan-Leary#readme"
+}
